@@ -32,4 +32,9 @@ This app allows users to **add, edit, delete, and mark tasks as complete**, with
 1. Clone the repository or download the files:
 
 ```bash
-git clone https://github.com/your-username/todo-list.git
+git clone
+https://github.com/MahendraTiwari8496/To-Do-List
+
+use as a web
+ https://mahendratiwari8496.github.io/To-Do-List/
+
