@@ -85,7 +85,8 @@ button:hover{
     color: blue;
     background-color: rgb(144, 233, 144);
     border-radius: 10px;
-     box-shadow: 10px 10px 20px rgb(53, 212, 77);  
+     box-shadow: 10px 10px 20px rgb(53, 212, 77);
+    overflow-wrap: anywhere;
    
 
 }
@@ -145,5 +146,6 @@ button:hover{
     transform: scale(1.3) rotate(-10deg);
     text-shadow: 0 0 10px #00ffd0;
 }
+
 
 
